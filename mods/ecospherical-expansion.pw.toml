@@ -1,0 +1,13 @@
+name = "Ecospherical Expansion"
+filename = "ecosphericalexpansion-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/8ydIzoNy/ecosphericalexpansion-2.3.0.jar"
+hash-format = "sha1"
+hash = "bc6e460f2765bbb234c4d81787fb4018684f6ce5"
+
+[update]
+[update.modrinth]
+mod-id = "WtcuxDNN"
+version = "8ydIzoNy"

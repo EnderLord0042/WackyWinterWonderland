@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "fe57f4a21d9e3a4976d2ae82381845584d964c0402c1e37b57c5ba14158d2c8d"
+metafile = true
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "c08e2ab704e3e3025380283cebc723e3e6b0bc282b3a92085d9d4ac0172f3bbf"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "9b207f5ff163e1b8d1f66d42b7ba970a43a3c801261054d1b5a1e78222b7e653"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "8e1ac677b0fa6dbb1aa9225e12ec2915f853ca41a6611dd802c988a03457e4f6"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "bbdde189f98ef22538522bde4f9f2991a72d7ce68c4204bede8065139f2d74e2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "489769f9b1bf1600d8eec7b8e08b27b66ecef1daeb3b4ddd44c0b6d14e5c5670"
+metafile = true
+
+[[files]]
+file = "mods/ecospherical-expansion.pw.toml"
+hash = "571dc7bd5baf7a92edae5e2f20b03a04455b925d2377bbb5c4a9674fd3ac1073"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "ba9647bcaa55ee2a99d4471115cc25b33f3e078638b2099031a3ab83bd29fc01"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight.pw.toml"
+hash = "c06f9184309dd7204ca3465672c4d195f9aa9588923701f2b1bdf5fbe5d19db3"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "0a7bf48d9905395955c694ef1ddc6465f0673984068a2dbc6dd4a29e95d5c941"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "82edae501ea32b9ed6939a9ca81122345bd081137529421dfa98cc60aeb79313"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ec8c818d45d9d25c601c1130b5cc80d44a769fe42ea7d05f6322920185192855"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "27d1ccc9950046ef6c8d7284aad99f7f1e5e7df1a8ce41cd37c48d91eaf6537a"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "7937f07a105862d70f937beef9e58bfefc64891bd711bed5934a73dec803f161"
+metafile = true
+
+[[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "73ea5eab4616b5d1b54e2a43021d456635d96951f5e9cd6a7ad2ac76d655bf2f"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6a800b84316b5d244794c7d6e3ee932502fadc73fe86295267e3f4028da822b"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "78362b7e7661e4511545b6f782e3dbcff2500a64e61dea86125f2a60484eb6a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "dfd979a3e6002e7fe8506a91d0dadcc4231ec4ffe0ec194e3c1105b4b80f7024"
+metafile = true
