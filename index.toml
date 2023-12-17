@@ -141,6 +141,11 @@ hash = "3b3dc09d3e22770c0fa301f718c419f38f48d07cdcace290e2c907c502fffbed"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "21d8eda40534ae97c9793b2264e54b7285a060d41bd63aa978df6f04b7df9d2e"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "ba9647bcaa55ee2a99d4471115cc25b33f3e078638b2099031a3ab83bd29fc01"
 metafile = true
