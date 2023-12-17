@@ -21,6 +21,11 @@ hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
@@ -136,6 +146,11 @@ hash = "3b3dc09d3e22770c0fa301f718c419f38f48d07cdcace290e2c907c502fffbed"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "b36cf1e8add86453575c82817dddedcc7b01050d7f087addd167e8a06be2dc78"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "ba9647bcaa55ee2a99d4471115cc25b33f3e078638b2099031a3ab83bd29fc01"
 metafile = true
@@ -156,8 +171,18 @@ hash = "82edae501ea32b9ed6939a9ca81122345bd081137529421dfa98cc60aeb79313"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "e19e778b75bd83958e62b7902c92e83f1095c20e07551ebc9917068895294721"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec8c818d45d9d25c601c1130b5cc80d44a769fe42ea7d05f6322920185192855"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
 metafile = true
 
 [[files]]
@@ -206,6 +231,11 @@ hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3ad9fc71b7dfc291072c61c95d9c774d721bec7cc5edcef1a341fd1d2321fc27"
 metafile = true
@@ -213,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "afb301ed55a33af3374b3718da3ba588228b057accbf167741ce1747905dd4f8"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
 metafile = true
 
 [[files]]
@@ -231,8 +266,18 @@ hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "561dd511de15a2a35535bad21196df592095f1405ec84456b6db74ae0881a3a6"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
