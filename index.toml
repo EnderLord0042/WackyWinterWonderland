@@ -81,8 +81,8 @@ hash = "b6397a26aec2794a006ba9033f5b114c241e88bf80fe82937cb57d2b39e333d9"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "2c4dc7f60fa4d3e5557639946406bf4fa3c4a45799cc828977d707ee4b671d58"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "8a82c700bb8d6b7425cdb9935049c0833e21f3a26e476c66e525b6024da4e24d"
 metafile = true
 
 [[files]]
@@ -93,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "4f1b62d09078e1bb6662760eeca43e1ba59ab79fe4ee95d007566a48e50d3abe"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-cogs.pw.toml"
-hash = "8b3e6de974b8b3f9343afdc92eb8d033ad3e7c685a6e59b8ce1ff88fb49ccd2b"
 metafile = true
 
 [[files]]
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -163,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "0a7bf48d9905395955c694ef1ddc6465f0673984068a2dbc6dd4a29e95d5c941"
+metafile = true
+
+[[files]]
+file = "mods/fastmove.pw.toml"
+hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
 metafile = true
 
 [[files]]
