@@ -46,6 +46,11 @@ hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "b9d2721cef410929502491b6cd2394eb6a90ce5df684d7e7ca207402ad445a0f"
 metafile = true
@@ -136,6 +141,11 @@ hash = "3155502f39959b150a27893ef4005e430275b6d873012c719198306cabd6ba39"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "2bf09104825f31e24e2dfacbe57ffe6fd97283a1e779d9d7efa9f043e77d295e"
+metafile = true
+
+[[files]]
 file = "mods/ecospherical-expansion.pw.toml"
 hash = "3b3dc09d3e22770c0fa301f718c419f38f48d07cdcace290e2c907c502fffbed"
 metafile = true
@@ -181,6 +191,16 @@ hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
 metafile = true
 
 [[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "fff96b2cf07d07f0f76243aacbac94edd67c489544741faa8c46da9cb5cf06db"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "407148969526246bbe1d0b6a7fe06e51f391f689004134cac23a6b3f42b9c248"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
 metafile = true
@@ -207,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "f870c6edf1a9b77328b613247a944b8d3f7586cb132b055a48ac707893dbe3a1"
+hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
 metafile = true
 
 [[files]]
@@ -238,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "afb301ed55a33af3374b3718da3ba588228b057accbf167741ce1747905dd4f8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "c5372ddbf3c5abc5c1cb5ef67086e13f688574c5a1699130e6d0792e3e990310"
 metafile = true
 
 [[files]]
@@ -281,6 +306,21 @@ hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "ca9e4861ab0cfeb2ea854e0f92f147c82e7036f2a5f8682ae088aabcc616aa7c"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "dfd979a3e6002e7fe8506a91d0dadcc4231ec4ffe0ec194e3c1105b4b80f7024"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "11c6be6047de8136ed9048f4e3ef3eaf4bfc144b5480b5b474e5c4a7b0093a10"
 metafile = true
