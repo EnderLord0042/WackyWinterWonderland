@@ -11,11 +11,6 @@ hash = "8287fd8d32b5277804e6d52a7f720229f79176289a18af884f9a67e120d4424b"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "c08e2ab704e3e3025380283cebc723e3e6b0bc282b3a92085d9d4ac0172f3bbf"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
 metafile = true
